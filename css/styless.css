@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(121, 194, 127);
+    }
+
+h1 {
+    color: blue;
+    font-size: 300%;
+}
+
+p {
+    color: brown;
+    border: 1px solid red;
+    padding: 30px;
+    
+
+}
