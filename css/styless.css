@@ -1,7 +1,16 @@
 body {
     background-color: rgb(80, 50, 75);
+    margin: 0%;
+
 
 }
+
+#HeadRibbon {
+  margin:0;
+
+}
+
+
 
 h1 {
     font-family: 'Arvo', serif;
@@ -14,13 +23,22 @@ h1 {
     background-color: aliceblue;
     color: orange;
     border-color: black;
-    border-width: ;
-
-
-
-
+    margin: 0;
+    
 }
 
+.mainNavheader {
+    width: 100%;
+    background:green;
+    padding: 8px 16px;
+
+    
+}
+
+.main-nav-items {
+    display: inline-block;
+    
+}
 
 
 font-family: 'Arvo', serif;
